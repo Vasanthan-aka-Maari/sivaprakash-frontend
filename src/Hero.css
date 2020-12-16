@@ -63,6 +63,7 @@ a {
   .hero-image {
     width: 90%;
     height: 70%;
+    margin-bottom: 1rem;
   }
   .links {
     justify-content: center;
