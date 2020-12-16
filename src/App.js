@@ -42,7 +42,7 @@ function App() {
             >
               <i class="fab fa-instagram"></i>
             </a>
-            <a className="footer-link" href="mailto:">
+            <a className="footer-link" href="mailto:coffindance18@gmail.com">
               <i class="far fa-envelope"></i>
             </a>
           </li>

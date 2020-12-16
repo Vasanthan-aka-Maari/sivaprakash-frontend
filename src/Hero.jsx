@@ -37,7 +37,7 @@ const Hero = () => {
             </a>
           </li>
           <li>
-            <a className="link" href="mailto:">
+            <a className="link" href="mailto:coffindance18@gmail.com">
               <i class="far fa-envelope"></i>
             </a>
           </li>
