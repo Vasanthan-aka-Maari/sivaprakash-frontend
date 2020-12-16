@@ -53,14 +53,21 @@ a {
 
 @media screen and (max-width: 820px) {
   html {
-    font-size: 14px;
+    font-size: 13px;
   }
   .hero {
     flex-direction: column;
     text-align: center;
     justify-content: center;
   }
+  .hero-image {
+    width: 90%;
+    height: 70%;
+  }
   .links {
     justify-content: center;
+  }
+  .link {
+    margin: 0 1rem;
   }
 }
