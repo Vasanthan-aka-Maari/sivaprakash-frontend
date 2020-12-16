@@ -1,0 +1,27 @@
+.imageContainer {
+  padding: 0 10px;
+  min-height: 100vh;
+  display: grid;
+  grid-auto-flow: dense;
+  grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+  grid-gap: 1rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffe5b9;
+}
+.imageContainer-title {
+  text-align: center;
+  font-size: 2.5rem;
+}
+.image {
+  overflow: hidden;
+}
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: all 0.3s ease-in-out;
+}
+.image:hover img {
+  transform: scale(1.07);
+}
