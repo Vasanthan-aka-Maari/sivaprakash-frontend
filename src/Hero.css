@@ -5,7 +5,7 @@ a {
   text-decoration: none;
 }
 .hero {
-  min-height: 70vh;
+  height: 90vh;
   width: 90vw;
   margin: auto;
   display: flex;
@@ -18,10 +18,10 @@ a {
 }
 .hero-image {
   width: 40%;
-  height: 80%;
+  height: 90%;
   margin: auto 0;
   object-position: 50% 50%;
-  object-fit: contain;
+  object-fit: cover;
   border-radius: 10%;
 }
 .hero-infoContainer h1 {
