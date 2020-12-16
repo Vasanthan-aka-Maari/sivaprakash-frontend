@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sivaprakash-frontend/static/css/main.8e953e21.chunk.css",
+    "main.js": "/sivaprakash-frontend/static/js/main.a24ff788.chunk.js",
+    "main.js.map": "/sivaprakash-frontend/static/js/main.a24ff788.chunk.js.map",
+    "runtime-main.js": "/sivaprakash-frontend/static/js/runtime-main.61558f69.js",
+    "runtime-main.js.map": "/sivaprakash-frontend/static/js/runtime-main.61558f69.js.map",
+    "static/js/2.4e0a276c.chunk.js": "/sivaprakash-frontend/static/js/2.4e0a276c.chunk.js",
+    "static/js/2.4e0a276c.chunk.js.map": "/sivaprakash-frontend/static/js/2.4e0a276c.chunk.js.map",
+    "static/js/3.8ed90c05.chunk.js": "/sivaprakash-frontend/static/js/3.8ed90c05.chunk.js",
+    "static/js/3.8ed90c05.chunk.js.map": "/sivaprakash-frontend/static/js/3.8ed90c05.chunk.js.map",
+    "index.html": "/sivaprakash-frontend/index.html",
+    "static/css/main.8e953e21.chunk.css.map": "/sivaprakash-frontend/static/css/main.8e953e21.chunk.css.map",
+    "static/js/2.4e0a276c.chunk.js.LICENSE.txt": "/sivaprakash-frontend/static/js/2.4e0a276c.chunk.js.LICENSE.txt",
+    "static/media/sivaprakash.0dc14b52.jpeg": "/sivaprakash-frontend/static/media/sivaprakash.0dc14b52.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61558f69.js",
+    "static/js/2.4e0a276c.chunk.js",
+    "static/css/main.8e953e21.chunk.css",
+    "static/js/main.a24ff788.chunk.js"
+  ]
+}
