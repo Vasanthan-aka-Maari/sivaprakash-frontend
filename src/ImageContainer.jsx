@@ -21,7 +21,7 @@ function ImageContainer() {
       </h1>
       <div className="imageContainer">
         {images.map((image) => (
-          <div className="image">
+          <div key={image} className="image">
             <img src={image.image} alt="" />
           </div>
         ))}
