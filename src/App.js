@@ -6,7 +6,7 @@ import ImageContainer from "./ImageContainer";
 function App() {
   return (
     <div
-      style={{ minHeight: "100vh", backgroundColor: "#443a7e" }}
+      style={{ minHeight: "100vh", backgroundColor: "#292826" }}
       className="app"
     >
       <div className="top-container">
@@ -14,13 +14,13 @@ function App() {
           style={{
             paddingTop: "1rem",
             textAlign: "center",
-            fontFamily: "Sniglet, cursive",
+            fontFamily: "Roboto, sans-serif",
             fontWeight: "normal",
-            color: "#fa9579",
+            color: "#f9d342",
           }}
           className="header"
         >
-          WELCOME
+          Hi
         </h1>
         <Hero />
       </div>

@@ -12,10 +12,15 @@ function ImageContainer() {
   }, []);
 
   return (
-    <div style={{ backgroundColor: "#ffe5b9", paddingTop: "5rem" }}>
+    <div style={{ backgroundColor: "#292826", paddingTop: "3rem" }}>
       <h1
         className="imageContainer-title"
-        style={{ fontFamily: "Sniglet, cursive", color: "#6155a6" }}
+        style={{
+          fontFamily: "Roboto, sans-serif",
+          fontWeight: "normal",
+          paddingBottom: "10px",
+          color: "#f9d342",
+        }}
       >
         My Works
       </h1>

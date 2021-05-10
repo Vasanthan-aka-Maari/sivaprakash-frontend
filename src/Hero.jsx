@@ -14,7 +14,7 @@ const Hero = () => {
               fontFamily: "Sacramento, cursive",
               fontSize: "3.5rem",
               fontWeight: "bold",
-              color: "#fa9579",
+              color: "#f9d342",
             }}
           >
             {" "}

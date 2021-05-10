@@ -3,11 +3,12 @@
   padding-top: 4rem;
   text-align: center;
   padding: 20px;
-  background-color: #443a7e;
-  color: #fa9579;
+  background-color: #292826;
+  color: #f9d342;
 }
 .footer-subtitle {
-  font-family: "Sniglet", cursive !important;
+  font-family: "Roboto", cursive !important;
+  font-weight: normal;
   margin-bottom: 15px;
 }
 .footer-links {
@@ -19,5 +20,5 @@
   font-size: 1.5rem;
   margin-left: 2rem;
   margin-right: 2rem;
-  color: #ffabe1;
+  color: #f9d342;
 }
